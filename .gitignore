@@ -1,5 +1,5 @@
 .venv/
 __pycache__/
 *.pyc
-
 *.pkl
+confusion_matrix.png
